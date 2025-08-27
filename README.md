@@ -17,16 +17,18 @@ Supports basic arithmetic operations: **Addition, Subtraction, Multiplication, D
 ---
 
 ## 📸 Preview
-`![Calculator Screenshot](screenshot1.png)(screenshot1.png)`
 
----
+<div align="center">
+  <img width="410" alt="Sample screenshot" src="https://github.com/aakshatha02/simple-calculator/blob/main/screenshot1.png">
+   <img width="410" alt="Sample screenshot" src="https://github.com/aakshatha02/simple-calculator/blob/main/screenshot2.png">
+</div>
 
 ## 🛠 Installation & Usage
 
 1. Clone the repository (or copy the code):
    ```bash
-   git clone https://github.com/your-username/simple-calculator-tkinter.git
-   cd simple-calculator-tkinter
+   git clone https://github.com/aakshatha02/simple-calculator.git
+   cd simple-calculator
 
 2. Run the script:
     python calculator.py
